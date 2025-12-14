@@ -1,0 +1,12 @@
+# 가상 환경
+streamlit_env/
+
+# macOS 시스템 파일
+.DS_Store
+
+# Python 캐시 (실행 시 생성됨)
+__pycache__/
+*.pyc
+
+# Streamlit 캐시
+.streamlit/
